@@ -1,0 +1,7 @@
+id=redball_magisk_xray
+name=XRAY For Magisk(仅支持ARM64-v8a架构)
+version=v1.7.5
+versionCode=17500
+author=Redball1017 & XTLS
+description=这是一个在Magisk中运行XRAY的模块。本模块可长期不更新，版本号就是XRAY Core的版本号。默认没有配置文件，请将V2ray配置文件(config.json)放置于/data/adb/modules/redball_magisk_xray 中。配置文件名字一定要是config.json，否则会启动失败。
+minMagisk=17000
